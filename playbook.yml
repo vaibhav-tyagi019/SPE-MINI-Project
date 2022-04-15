@@ -1,9 +1,11 @@
 ---
-- name: Deploy the jar file
+- name: Pull docker image
   hosts: all
-  remote_user: vaibhav
+  remote_user: user
   tasks:
-    - name: Copy jar file to home directory
-      copy:
-        src: ./target/Calc_main-1.0-SNAPSHOT-jar-with-dependencies.jar
-        dest: ~/
+    - name: pull an image
+      docker_image:
+        name: vaibhav019/calc_main
+    
+    
+    
