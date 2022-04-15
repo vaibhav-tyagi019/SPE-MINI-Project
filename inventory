@@ -1,4 +1,4 @@
 localhost ansible_user=vaibhav
 
-[ubuntu18 live server]
+[Ubuntu18]
 172.16.131.0 ansible_user=user
