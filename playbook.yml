@@ -1,10 +1,12 @@
 ---
-- hosts: localhost
-- hosts:Ubuntu18
-  
+- name: Deploy a jar file
+  hosts: all
+  remote_user: vaibhav
   tasks:
-  - name: pull an image
-    command: docker pull vaibhav019/calc_main:latest
+    - name: Copy jar file to home directory
+      copy:
+        src: ./target/Calc_main-1.0-SNAPSHOT-jar-with-dependencies.jar
+        dest: ~/
     
     
     
