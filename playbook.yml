@@ -1,11 +1,9 @@
 ---
-- name: Pull docker image
-  hosts: all
-  remote_user: user
+- hosts: all
+  
   tasks:
-    - name: pull an image
-      docker_image:
-        name: vaibhav019/calc_main
+  - name: pull an image
+    command: docker pull vaibhav019/calc_main:latest
     
     
     
