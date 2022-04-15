@@ -1,0 +1,115 @@
+2022-04-15 10:12:51.218 [main] INFO  spe_mini.Calc_main - Factorial called for -6
+2022-04-15 10:12:51.228 [main] INFO  spe_mini.Calc_main - ans:720.0
+2022-04-15 10:12:51.228 [main] INFO  spe_mini.Calc_main - Factorial called for -3
+2022-04-15 10:12:51.229 [main] INFO  spe_mini.Calc_main - ans:6.0
+2022-04-15 10:12:51.231 [main] INFO  spe_mini.Calc_main - Square Root called for -3.0
+2022-04-15 10:12:51.233 [main] INFO  spe_mini.Calc_main - ans:1.7320508075688772
+2022-04-15 10:12:51.233 [main] INFO  spe_mini.Calc_main - Square Root called for -4.0
+2022-04-15 10:12:51.233 [main] INFO  spe_mini.Calc_main - ans:2.0
+2022-04-15 10:12:51.235 [main] INFO  spe_mini.Calc_main - Natural log called for -1.0
+2022-04-15 10:12:51.236 [main] INFO  spe_mini.Calc_main - ans:0.0
+2022-04-15 10:12:51.236 [main] INFO  spe_mini.Calc_main - Natural log called for -1.0
+2022-04-15 10:12:51.237 [main] INFO  spe_mini.Calc_main - ans:0.0
+2022-04-15 10:12:51.238 [main] INFO  spe_mini.Calc_main - Factorial called for -5
+2022-04-15 10:12:51.238 [main] INFO  spe_mini.Calc_main - ans:120.0
+2022-04-15 10:12:51.239 [main] INFO  spe_mini.Calc_main - Factorial called for -4
+2022-04-15 10:12:51.239 [main] INFO  spe_mini.Calc_main - ans:24.0
+2022-04-15 10:12:51.252 [main] INFO  spe_mini.Calc_main - Power called for - 2.0 and 2.0
+2022-04-15 10:12:51.254 [main] INFO  spe_mini.Calc_main - ans:4.0
+2022-04-15 10:12:51.254 [main] INFO  spe_mini.Calc_main - Power called for - 2.0 and 3.0
+2022-04-15 10:12:51.255 [main] INFO  spe_mini.Calc_main - ans:8.0
+2022-04-15 10:12:51.256 [main] INFO  spe_mini.Calc_main - Power called for - 2.0 and 3.0
+2022-04-15 10:12:51.257 [main] INFO  spe_mini.Calc_main - ans:8.0
+2022-04-15 10:12:51.258 [main] INFO  spe_mini.Calc_main - Power called for - 4.0 and 3.0
+2022-04-15 10:12:51.258 [main] INFO  spe_mini.Calc_main - ans:64.0
+2022-04-15 10:12:51.259 [main] INFO  spe_mini.Calc_main - Natural log called for -2.4
+2022-04-15 10:12:51.260 [main] INFO  spe_mini.Calc_main - ans:0.8754687373538999
+2022-04-15 10:12:51.261 [main] INFO  spe_mini.Calc_main - Natural log called for -2.1
+2022-04-15 10:12:51.261 [main] INFO  spe_mini.Calc_main - ans:0.7419373447293773
+2022-04-15 10:12:51.262 [main] INFO  spe_mini.Calc_main - Square Root called for -4.0
+2022-04-15 10:12:51.263 [main] INFO  spe_mini.Calc_main - ans:2.0
+2022-04-15 10:12:51.263 [main] INFO  spe_mini.Calc_main - Square Root called for -1.0
+2022-04-15 10:12:51.264 [main] INFO  spe_mini.Calc_main - ans:1.0
+2022-04-15 10:13:17.627 [main] INFO  spe_mini.Calc_main - Natural log called for -2.732
+2022-04-15 10:13:17.632 [main] INFO  spe_mini.Calc_main - ans:1.0050339417085437
+2022-04-15 10:13:33.716 [main] INFO  spe_mini.Calc_main - Factorial called for -12
+2022-04-15 10:13:33.717 [main] INFO  spe_mini.Calc_main - ans:4.790016E8
+2022-04-15 10:13:42.460 [main] INFO  spe_mini.Calc_main - Factorial called for --1
+2022-04-15 10:13:42.461 [main] INFO  spe_mini.Calc_main - ans:-1
+2022-04-15 10:17:42.673 [main] INFO  spe_mini.Calc_main - Factorial called for -6
+2022-04-15 10:17:42.688 [main] INFO  spe_mini.Calc_main - ans:720.0
+2022-04-15 10:17:42.689 [main] INFO  spe_mini.Calc_main - Factorial called for -3
+2022-04-15 10:17:42.689 [main] INFO  spe_mini.Calc_main - ans:6.0
+2022-04-15 10:17:42.693 [main] INFO  spe_mini.Calc_main - Square Root called for -3.0
+2022-04-15 10:17:42.694 [main] INFO  spe_mini.Calc_main - ans:1.7320508075688772
+2022-04-15 10:17:42.694 [main] INFO  spe_mini.Calc_main - Square Root called for -4.0
+2022-04-15 10:17:42.695 [main] INFO  spe_mini.Calc_main - ans:2.0
+2022-04-15 10:17:42.696 [main] INFO  spe_mini.Calc_main - Natural log called for -1.0
+2022-04-15 10:17:42.697 [main] INFO  spe_mini.Calc_main - ans:0.0
+2022-04-15 10:17:42.697 [main] INFO  spe_mini.Calc_main - Natural log called for -1.0
+2022-04-15 10:17:42.698 [main] INFO  spe_mini.Calc_main - ans:0.0
+2022-04-15 10:17:42.699 [main] INFO  spe_mini.Calc_main - Factorial called for -5
+2022-04-15 10:17:42.700 [main] INFO  spe_mini.Calc_main - ans:120.0
+2022-04-15 10:17:42.701 [main] INFO  spe_mini.Calc_main - Factorial called for -4
+2022-04-15 10:17:42.701 [main] INFO  spe_mini.Calc_main - ans:24.0
+2022-04-15 10:17:42.717 [main] INFO  spe_mini.Calc_main - Power called for - 2.0 and 2.0
+2022-04-15 10:17:42.719 [main] INFO  spe_mini.Calc_main - ans:4.0
+2022-04-15 10:17:42.719 [main] INFO  spe_mini.Calc_main - Power called for - 2.0 and 3.0
+2022-04-15 10:17:42.720 [main] INFO  spe_mini.Calc_main - ans:8.0
+2022-04-15 10:17:42.721 [main] INFO  spe_mini.Calc_main - Power called for - 2.0 and 3.0
+2022-04-15 10:17:42.721 [main] INFO  spe_mini.Calc_main - ans:8.0
+2022-04-15 10:17:42.722 [main] INFO  spe_mini.Calc_main - Power called for - 4.0 and 3.0
+2022-04-15 10:17:42.722 [main] INFO  spe_mini.Calc_main - ans:64.0
+2022-04-15 10:17:42.723 [main] INFO  spe_mini.Calc_main - Natural log called for -2.4
+2022-04-15 10:17:42.724 [main] INFO  spe_mini.Calc_main - ans:0.8754687373538999
+2022-04-15 10:17:42.724 [main] INFO  spe_mini.Calc_main - Natural log called for -2.1
+2022-04-15 10:17:42.725 [main] INFO  spe_mini.Calc_main - ans:0.7419373447293773
+2022-04-15 10:17:42.726 [main] INFO  spe_mini.Calc_main - Square Root called for -4.0
+2022-04-15 10:17:42.727 [main] INFO  spe_mini.Calc_main - ans:2.0
+2022-04-15 10:17:42.727 [main] INFO  spe_mini.Calc_main - Square Root called for -1.0
+2022-04-15 10:17:42.728 [main] INFO  spe_mini.Calc_main - ans:1.0
+2022-04-15 10:18:31.537 [main] INFO  spe_mini.Calc_main - Power called for - 4.0 and 3.0
+2022-04-15 10:18:31.543 [main] INFO  spe_mini.Calc_main - ans:64.0
+2022-04-15 10:31:09.656 [main] INFO  spe_mini.Calc_main - Factorial called for : 6
+2022-04-15 10:31:09.669 [main] INFO  spe_mini.Calc_main - ans: 720.0
+2022-04-15 10:31:09.670 [main] INFO  spe_mini.Calc_main - Factorial called for : 3
+2022-04-15 10:31:09.671 [main] INFO  spe_mini.Calc_main - ans: 6.0
+2022-04-15 10:31:09.674 [main] INFO  spe_mini.Calc_main - Square Root called for -3.0
+2022-04-15 10:31:09.676 [main] INFO  spe_mini.Calc_main - ans: 1.7320508075688772
+2022-04-15 10:31:09.676 [main] INFO  spe_mini.Calc_main - Square Root called for -4.0
+2022-04-15 10:31:09.677 [main] INFO  spe_mini.Calc_main - ans: 2.0
+2022-04-15 10:31:09.679 [main] INFO  spe_mini.Calc_main - Natural log called for : 1.0
+2022-04-15 10:31:09.680 [main] INFO  spe_mini.Calc_main - ans: 0.0
+2022-04-15 10:31:09.681 [main] INFO  spe_mini.Calc_main - Natural log called for : 1.0
+2022-04-15 10:31:09.682 [main] INFO  spe_mini.Calc_main - ans: 0.0
+2022-04-15 10:31:09.683 [main] INFO  spe_mini.Calc_main - Factorial called for : 5
+2022-04-15 10:31:09.684 [main] INFO  spe_mini.Calc_main - ans: 120.0
+2022-04-15 10:31:09.685 [main] INFO  spe_mini.Calc_main - Factorial called for : 4
+2022-04-15 10:31:09.685 [main] INFO  spe_mini.Calc_main - ans: 24.0
+2022-04-15 10:31:09.704 [main] INFO  spe_mini.Calc_main - Power called for : 2.0 and 2.0
+2022-04-15 10:31:09.707 [main] INFO  spe_mini.Calc_main - ans: 4.0
+2022-04-15 10:31:09.708 [main] INFO  spe_mini.Calc_main - Power called for : 2.0 and 3.0
+2022-04-15 10:31:09.709 [main] INFO  spe_mini.Calc_main - ans: 8.0
+2022-04-15 10:31:09.711 [main] INFO  spe_mini.Calc_main - Power called for : 2.0 and 3.0
+2022-04-15 10:31:09.712 [main] INFO  spe_mini.Calc_main - ans: 8.0
+2022-04-15 10:31:09.713 [main] INFO  spe_mini.Calc_main - Power called for : 4.0 and 3.0
+2022-04-15 10:31:09.714 [main] INFO  spe_mini.Calc_main - ans: 64.0
+2022-04-15 10:31:09.715 [main] INFO  spe_mini.Calc_main - Natural log called for : 2.4
+2022-04-15 10:31:09.716 [main] INFO  spe_mini.Calc_main - ans: 0.8754687373538999
+2022-04-15 10:31:09.717 [main] INFO  spe_mini.Calc_main - Natural log called for : 2.1
+2022-04-15 10:31:09.717 [main] INFO  spe_mini.Calc_main - ans: 0.7419373447293773
+2022-04-15 10:31:09.719 [main] INFO  spe_mini.Calc_main - Square Root called for -4.0
+2022-04-15 10:31:09.720 [main] INFO  spe_mini.Calc_main - ans: 2.0
+2022-04-15 10:31:09.721 [main] INFO  spe_mini.Calc_main - Square Root called for -1.0
+2022-04-15 10:31:09.721 [main] INFO  spe_mini.Calc_main - ans: 1.0
+2022-04-15 10:33:17.856 [main] INFO  spe_mini.Calc_main - Factorial called for : -4
+2022-04-15 10:33:17.860 [main] INFO  spe_mini.Calc_main - ans : not possible
+2022-04-15 10:33:51.254 [main] INFO  spe_mini.Calc_main - Factorial called for : 9
+2022-04-15 10:33:51.259 [main] INFO  spe_mini.Calc_main - ans: 362880.0
+2022-04-15 10:34:01.010 [main] INFO  spe_mini.Calc_main - Square Root called for --8.0
+2022-04-15 10:34:01.010 [main] INFO  spe_mini.Calc_main - ans: not possible
+2022-04-15 10:34:17.856 [main] INFO  spe_mini.Calc_main - Power called for : -1.0 and 100.0
+2022-04-15 10:34:17.857 [main] INFO  spe_mini.Calc_main - ans: 1.0
+2022-04-15 10:35:20.900 [main] INFO  spe_mini.Calc_main - Natural log called for : 2.718281828459
+2022-04-15 10:35:20.902 [main] INFO  spe_mini.Calc_main - ans: 0.9999999999999832
+2022-04-15 10:35:44.704 [main] INFO  spe_mini.Calc_main - Calculator closing...
