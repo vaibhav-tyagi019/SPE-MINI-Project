@@ -1,5 +1,5 @@
 ---
-- hosts: vaibhav,user
+- hosts: localhost,Ubuntu18
   
   tasks:
   - name: pull an image
