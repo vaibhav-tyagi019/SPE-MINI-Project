@@ -28,6 +28,7 @@ public class Calc_main {
             System.out.println("3- To find x to the power y");
             System.out.println("4- To find Log to the base e");
             System.out.println("Press any other key to exit calculator");
+            System.out.println("");
 
             int choice =Integer.parseInt(sc.nextLine());
 
