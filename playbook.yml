@@ -1,5 +1,5 @@
 ---
-- name: Deploy a jar file
+- name: Pull docker image
   hosts: all
   remote_user: vaibhav
   tasks:
