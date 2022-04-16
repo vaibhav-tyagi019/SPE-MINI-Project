@@ -3,10 +3,8 @@
   hosts: all
   remote_user: vaibhav
   tasks:
-    - name: Copy jar file to home directory
-      copy:
-        src: ./target/Calc_main-1.0-SNAPSHOT-jar-with-dependencies.jar
-        dest: ~/
+    - name: pulling image from dockerhub
+      command: docker pull vaibhav019/calc_main:latest
     
     
     
